@@ -1,3 +1,5 @@
+# Summary
+
 This project explores the athletic traits that most influence whether a player will be drafted into the NFL, focusing on how these traits vary by position. By analyzing historical data on player performance in various drills, we aim to uncover the critical factors that distinguish drafted players from those who go undrafted.
 
 The process involves:
